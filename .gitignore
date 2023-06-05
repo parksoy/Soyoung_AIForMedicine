@@ -1,0 +1,11 @@
+/.DS_Store
+*.png
+__pycache__
+*.nii.gz
+*.h5
+*.ipynb_checkpoints
+*/data/*
+*/R/*
+*/images/*
+*.hdf5
+/C1_AIForDiagnosis/W3A1/data/BraTS-Data/model_pretrained.hdf5
